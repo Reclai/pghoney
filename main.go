@@ -10,7 +10,7 @@ import (
 	"syscall"
 	"time"
 
-	log "github.com/Sirupsen/logrus"
+	log "github.com/Reclai/logrus"
 )
 
 type Configuration struct {
