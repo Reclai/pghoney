@@ -3,7 +3,7 @@ package main
 import (
 	"time"
 
-	log "github.com/Reclai/logrus"
+	log "github.com/sirupsen/logrus"
 	hpfeeds "github.com/fw42/go-hpfeeds"
 )
 
