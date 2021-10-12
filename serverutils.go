@@ -5,7 +5,7 @@ import (
 	"io"
 	"net"
 
-	log "github.com/Reclai/logrus"
+	log "github.com/sirupsen/logrus"
 )
 
 // Initial requests:
