@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	log "github.com/Reclai/logrus"
+	log "github.com/sirupsen/logrus"
 )
 
 var (
