@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	log "github.com/Sirupsen/logrus"
+	log "github.com/Reclai/logrus"
 )
 
 type PostgresServer struct {
