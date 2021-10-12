@@ -6,7 +6,7 @@ import (
 	"bytes"
 	"encoding/binary"
 
-	log "github.com/Sirupsen/logrus"
+	log "github.com/Reclai/logrus"
 	"github.com/lib/pq/oid"
 )
 
